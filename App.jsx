@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { Building2, LogOut, Plus, RefreshCw, Trash2, Pencil, Users, Shield } from 'lucide-react';
 
 const SUPA_URL = 'https://qltkepywsfvwwoorooit.supabase.co';
-const SUPA_KEY = 'sb_publishable_M7B7NLCNR5RvdNl2oINabw_FK2lUph3';
+const SUPA_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFsdGtlcHl3c2Z2d3dvb3Jvb2l0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk5NzYzNjksImV4cCI6MjA5NTU1MjM2OX0.1vKLMC5tPBC8EQEOBFBEmir0M61rECCU-IouqeJpfx4
 const TABLE = 'almox_database';
 const RECORD = 'tpcons_almoxarifado_online_v1';
 const LOCAL_KEY = 'tpcons_almoxarifado_online_v1';
